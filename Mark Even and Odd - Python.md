@@ -10,10 +10,10 @@ Output: Odd
 Constraints:
 1 ≤ x ≤ 106'''
 # code here
-def checkOddEven(x):
+`def checkOddEven(x):
     if x == 0:
         return ("Even")
     elif x % 2 == 0:
         return("Even")
     else:
-        return("Odd")
+        return("Odd")`
